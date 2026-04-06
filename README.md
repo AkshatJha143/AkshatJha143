@@ -19,7 +19,7 @@ I'm a recent grad student from **USC** (MS in Computer Science, Dec 2025) with h
 
 Previously interned at **Sayari Labs** (data engineering, LLM deployment on GCP), **Bajaj Finserv** (real-time Spark/Kafka pipelines), and **HighRadius** (SQL analytics + ML forecasting).
 
-Based in **Los Angeles, CA** · Open to full-time Data Engineer and Backend SWE roles.
+Based in **Los Angeles, CA** · Open to full-time Data Engineer and SWE roles.
 
 ---
 

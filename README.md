@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a grad student at **USC** (MS in Computer Science, Dec 2025) with hands-on experience building data pipelines, backend services, and ML-powered systems at scale. I like working close to the infrastructure — streaming architectures, cost-aware cloud design, and making data reliable before anyone downstream ever has to think about it.
+I'm a recent grad student from **USC** (MS in Computer Science, Dec 2025) with hands-on experience building data pipelines, backend services, and ML-powered systems at scale. I like working close to the infrastructure — streaming architectures, cost-aware cloud design, and making data reliable before anyone downstream ever has to think about it.
 
 Previously interned at **Sayari Labs** (data engineering, LLM deployment on GCP), **Bajaj Finserv** (real-time Spark/Kafka pipelines), and **HighRadius** (SQL analytics + ML forecasting).
 

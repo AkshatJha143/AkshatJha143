@@ -87,7 +87,7 @@ Based in **Los Angeles, CA** · Open to full-time Data Engineer and SWE roles.
 
 ---
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 <p align="center">
   <picture>
@@ -102,7 +102,7 @@ Based in **Los Angeles, CA** · Open to full-time Data Engineer and SWE roles.
   </picture>
 </p>
 
----
+---  -->
 
 <p align="center">
   <sub>📫 Reach me at <a href="mailto:akshat14jha@gmail.com">akshat14jha@gmail.com</a> · Let's build something.</sub>

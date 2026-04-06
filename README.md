@@ -73,7 +73,6 @@ Based in **Los Angeles, CA** · Open to full-time Data Engineer and SWE roles.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
----
 
 <!-- ### Featured Projects
 

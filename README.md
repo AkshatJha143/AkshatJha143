@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Akshat 👋</h1>
 
 <p align="center">
-  <strong>Data Engineer · Backend Developer · MS CS @ USC</strong>
+  <strong>Data Engineer · SDE · MS CS @ USC</strong>
 </p>
 
 <p align="center">

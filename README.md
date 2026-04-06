@@ -90,8 +90,16 @@ Based in **Los Angeles, CA** · Open to full-time Data Engineer and SWE roles.
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AkshatJha143&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=6366f1&title_color=1e293b&text_color=475569" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJha143&layout=compact&hide_border=true&langs_count=8&title_color=1e293b&text_color=475569" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkshatJha143&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AkshatJha143&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=AkshatJha143&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJha143&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJha143&layout=compact&hide_border=true&langs_count=8&theme=default" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJha143&layout=compact&hide_border=true&langs_count=8&theme=default" />
+  </picture>
 </p>
 
 ---
